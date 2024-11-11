@@ -17,3 +17,4 @@ How do you change the character at index 3 of the string variable "Cable" to 'r'
 '''
 Cable = "Cable"
 print(Cable[:3] + 'r' + Cable[4:])
+
