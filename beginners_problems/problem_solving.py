@@ -92,4 +92,4 @@ if (r <=100 and r>0) and (c <=100 and c>0) and (e <=100 and e>0):
     total_number_of_rows_in_a_table = (r * c) + (e * c)
     print(total_number_of_rows_in_a_table)
 else:
-    print("")
+    print("r,c,e value constraint failed values must be between 1 to 100")
